@@ -1,0 +1,59 @@
+{
+    "courses": [
+        {
+            "courseId": "C0001",
+            "courseName": "Software Engineering",
+            "lecturerId": "U0002",
+            "studentIds": [
+                "U0003",
+                "U0004",
+                "U0005"
+            ]
+        }
+    ],
+    "sessions": [],
+    "users": [
+        {
+            "email": "admin",
+            "fullName": "Admin",
+            "id": "U0001",
+            "password": "1",
+            "role": 0
+        },
+        {
+            "email": "binh",
+            "fullName": "Lecturer Binh",
+            "id": "U0002",
+            "password": "1",
+            "role": 1
+        },
+        {
+            "email": "an",
+            "fullName": "Student An",
+            "id": "U0003",
+            "password": "1",
+            "role": 2
+        },
+        {
+            "email": "cuong",
+            "fullName": "Student Cuong",
+            "id": "U0004",
+            "password": "1",
+            "role": 2
+        },
+        {
+            "email": "tuluc0832@gmail.com",
+            "fullName": "Nguyen Le Tu Luc",
+            "id": "U0005",
+            "password": "54206006130",
+            "role": 2
+        },
+        {
+            "email": "lucnlt6130@ut.edu.vn",
+            "fullName": "ah hoang",
+            "id": "U0006",
+            "password": "54206006130",
+            "role": 1
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs studio\\SAS01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\sas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\sas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\storage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\storage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\storage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\sas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\sas.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\qr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\qr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|D:\\vs studio\\SAS01\\SAS01\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F660234-F3BD-4B5F-B4A1-D05CAE2108D0}|SAS01\\SAS01.vcxproj|solutionrelative:SAS01\\qr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\Dockerfile",
+              "RelativeDocumentMoniker": "SAS01\\Dockerfile",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\Dockerfile",
+              "RelativeToolTip": "SAS01\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-19T08:50:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "storage.h",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\storage.h",
+              "RelativeDocumentMoniker": "SAS01\\storage.h",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\storage.h",
+              "RelativeToolTip": "SAS01\\storage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-18T17:56:45.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\main.cpp",
+              "RelativeDocumentMoniker": "SAS01\\main.cpp",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\main.cpp",
+              "RelativeToolTip": "SAS01\\main.cpp",
+              "ViewState": "AgIAAFABAAAAAAAAAAAYwF4BAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:59:02.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sas.cpp",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\sas.cpp",
+              "RelativeDocumentMoniker": "SAS01\\sas.cpp",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\sas.cpp",
+              "RelativeToolTip": "SAS01\\sas.cpp",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAUwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:58:45.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sas.h",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\sas.h",
+              "RelativeDocumentMoniker": "SAS01\\sas.h",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\sas.h",
+              "RelativeToolTip": "SAS01\\sas.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-18T17:58:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "qr.cpp",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\qr.cpp",
+              "RelativeDocumentMoniker": "SAS01\\qr.cpp",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\qr.cpp",
+              "RelativeToolTip": "SAS01\\qr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:58:02.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "qr.h",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\qr.h",
+              "RelativeDocumentMoniker": "SAS01\\qr.h",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\qr.h",
+              "RelativeToolTip": "SAS01\\qr.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-18T17:57:46.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "storage.cpp",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\storage.cpp",
+              "RelativeDocumentMoniker": "SAS01\\storage.cpp",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\storage.cpp",
+              "RelativeToolTip": "SAS01\\storage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:57:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "models.h",
+              "DocumentMoniker": "D:\\vs studio\\SAS01\\SAS01\\models.h",
+              "RelativeDocumentMoniker": "SAS01\\models.h",
+              "ToolTip": "D:\\vs studio\\SAS01\\SAS01\\models.h",
+              "RelativeToolTip": "SAS01\\models.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-18T17:56:10.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Mã S?,Tên,Email,M?t kh?u,Quy?n( Admin = 0; Lecturer = 1; Student = 2)
+U0001,Admin,admin,1,0
+U0002,Lecturer Binh,binh,1,1
+U0003,Student An,an,1,2
+U0004,Student Cuong,cuong,1,2
+U0005,Nguyen Le Tu Luc,tuluc0832@gmail.com,54206006130,2
+U0006,ah hoang,lucnlt6130@ut.edu.vn,54206006130,1
